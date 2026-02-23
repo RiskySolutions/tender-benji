@@ -26,4 +26,4 @@ This repository contains code primarily written in Jupyter Notebook, with some H
 This project does not have a license.
 
 ## Author
-- **GitHub**: [jrichy1](https://github.com/jrichy1)
+- **GitHub**: [RiskySoultions](https://github.com/RiskySoultions)
